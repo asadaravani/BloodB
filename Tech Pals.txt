@@ -1,9 +1,1 @@
-1;zhe;chen;64317;techpals
-
-2;chandroja;pal;65251;techpals
-
-3;asadbek;beganov;65395;techpals
-
-4;nurbek;turganbaev;65499;techpals
-
-5;bahtiyar;unal;65706;techpals
+1;
